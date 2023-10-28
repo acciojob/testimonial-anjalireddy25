@@ -1,15 +1,20 @@
 /*  your css code here. If applicable */
 
-.testimonial{
+.main-container{
 	background-color:#f5f5f5;
-	padding:10px 30px 20px 30px;
+	padding:20px;
 }
-.text{
-	border:1px solid grey;
-	padding:10px 100px 20px 10px;
+.testimonial{
+	border:solid #f5f5f5;
+	padding:10px;
+	margin:20px;
 	background-color:white;
 }
+.text{
+	display: inline;
+	text-style: normal;
+}
 .author{
-	align-text:right;
+	text-align:right;
 	font-style:italic;
 }
